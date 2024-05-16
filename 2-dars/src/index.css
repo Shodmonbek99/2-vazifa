@@ -1,3 +1,3 @@
-body {
-  font-family: "Helvetica Neue",;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
